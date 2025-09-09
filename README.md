@@ -1,6 +1,19 @@
-<!-- Presentación -->
-<h1 align="center">👨‍💻 ¡Hola! Soy Pablo Rincón</h1>
+<!-- Welcome -->
+<h1 align="center">Hola 👋, soy Pablo Rincón</h1>
 
+<!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+el+Desarrollo+de+Software;En+camino+a+ser+Arquitecto+de+Software;Siempre+aprendiendo+y+mejorando!">
+</p>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img height="150" src="https://i.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+</p>
+
+---
+
+<!-- About Me -->
 <pre>
 👨‍💻 Estudiante de Ingeniería de Sistemas (7º semestre).
 🚀 Enfoque en desarrollo de software y proyectos académicos.
@@ -9,7 +22,7 @@
 🔭 Actualmente buscando prácticas profesionales.
 </pre>
 
-<hr>
+---
 
 <!-- Skills and Tools -->
 <h2 align="center">🚀 Tecnologías y Herramientas</h2>
@@ -23,16 +36,18 @@
       <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5" />
       <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3" />
       <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript" />
-      <!-- Bases de datos -->    
+
+      <!-- Bases de datos -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+
       <!-- Herramientas -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
     </td>
   </tr>
 </table>
 
-<hr>
+---
 
 <!-- Projects -->
 <h2 align="center">📌 Proyectos Académicos Relevantes</h2>
@@ -42,7 +57,7 @@
   <li><b>Módulo ERP – RRHH</b> 🧑‍💼</li>
 </ul>
 
-<hr>
+---
 
 <!-- Socials -->
 <h2 align="center">🌐 Conéctate conmigo</h2>
