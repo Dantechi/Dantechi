@@ -23,11 +23,9 @@
       <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5" />
       <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3" />
       <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript" />
-
-      <!-- Bases de datos -->
+      <!-- Bases de datos -->    
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
-
       <!-- Herramientas -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
     </td>
